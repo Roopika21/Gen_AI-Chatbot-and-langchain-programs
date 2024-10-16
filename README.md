@@ -1,4 +1,4 @@
-# Gen_AI-Day-3
+# Gen_AI
 Chatbot Project
 This project is a simple chatbot built using Python and Jupyter Notebook. It demonstrates how to create an interactive chatbot that can engage with users through text-based conversations. The chatbot logic is written in Python, and Jupyter Notebook is used for showcasing the development process and testing the chatbot's responses.
 
