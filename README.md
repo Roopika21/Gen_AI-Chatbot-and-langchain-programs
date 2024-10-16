@@ -11,6 +11,22 @@ Technologies Used
 Python: Core programming language used to build the chatbot.
 Jupyter Notebook: For coding, testing, and demonstrating the chatbot's functionality.
 NLP Libraries (Optional): Uses libraries like nltk or spaCy for advanced text processing.
+
+Leaf Health Prediction Project
+This project focuses on predicting whether a leaf is healthy or diseased using machine learning models. The project is implemented in Python and demonstrated through a Jupyter Notebook. The model analyzes leaf images and classifies them as healthy or diseased based on image processing and machine learning techniques.
+
+Features
+Image Classification: Classifies leaf images into "healthy" or "diseased" categories.
+Machine Learning Models: Implements machine learning algorithms like Convolutional Neural Networks (CNN) for image recognition.
+Data Preprocessing: Includes image preprocessing techniques such as resizing, normalization, and augmentation.
+Interactive Jupyter Notebook: Step-by-step demonstration of data preparation, model training, and evaluation.
+Technologies Used
+Python: Core language for building the model.
+Jupyter Notebook: For interactive development and visualization.
+TensorFlow/Keras or PyTorch: Used for building and training the image classification model.
+OpenCV/PIL: For image preprocessing and handling.
+Scikit-learn: For evaluating the performance of the models.
+
 Installation
 Clone this repository:
 
